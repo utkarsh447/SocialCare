@@ -1,3 +1,5 @@
+## SQL file is present, make sure to import in phpmyadmin before running the project
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
