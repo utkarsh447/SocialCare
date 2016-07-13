@@ -1,4 +1,4 @@
-## SQL file is present, make sure to import in phpmyadmin before running the project
+SQL file is present, make sure to import in phpmyadmin before running the project
 
 ## Laravel PHP Framework
 
