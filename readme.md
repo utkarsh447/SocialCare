@@ -13,20 +13,20 @@ Also it helps in raising voice about anything which bothers
 It does that by understanding your post smartly, and drafting your comment in the form of personal mail and 
 sending it to the authorised concerned party.
 
-<p>The Starting Page
+<p>The Starting Page<br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/></p>
 
-<p>The Register Page
+<p>The Register Page<br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s2.png" width="700" height="450"/></p>
 
-<p>The Logined Page
+<p>The Logined Page<br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s3.png" width="700" height="450"/></p>
 
-<p>The Comments Page
+<p>The Comments Page<br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s4.png" width="700" height="450"/></p>
 
-<p>The Friends Page
+<p>The Friends Page<br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s5.png" width="700" height="450"/></p>
 
-<p>The Update Page
+<p>The Update Page<br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s6.png" width="700" height="450"/></p>
