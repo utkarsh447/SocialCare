@@ -13,20 +13,20 @@ Also it helps in raising voice about anything which bothers
 It does that by understanding your post smartly, and drafting your comment in the form of personal mail and 
 sending it to the authorised concerned party.
 
-The Starting Page
-<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
+<p>The Starting Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/></p>
 
-The Register Page
-<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
+<p>The Register Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s2.png" width="700" height="450"/></p>
 
-The Logined Page
-<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
+<p>The Logined Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s3.png" width="700" height="450"/></p>
 
-The Comments Page
-<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
+<p>The Comments Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s4.png" width="700" height="450"/></p>
 
-The Friends Page
-<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
+<p>The Friends Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s5.png" width="700" height="450"/></p>
 
-The Update Page
-<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
+<p>The Update Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s6.png" width="700" height="450"/></p>
