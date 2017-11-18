@@ -13,6 +13,7 @@ Also it helps in raising voice about anything which bothers
 It does that by understanding your post smartly, and drafting your comment in the form of personal mail and 
 sending it to the authorised concerned party.<br>
 
+<br>
 <p><b>The Starting Page</b><br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/></p>
 
