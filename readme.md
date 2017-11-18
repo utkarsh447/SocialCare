@@ -11,22 +11,22 @@ You can post anything which raises any concern about anything to you
 Your comment will be read by others and your friends
 Also it helps in raising voice about anything which bothers
 It does that by understanding your post smartly, and drafting your comment in the form of personal mail and 
-sending it to the authorised concerned party.
+sending it to the authorised concerned party.<br>
 
-<p>The Starting Page<br>
+<p><b>The Starting Page</b><br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/></p>
 
-<p>The Register Page<br>
+<p><b>The Register Page</b><br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s2.png" width="700" height="450"/></p>
 
-<p>The Logined Page<br>
+<p><b>The Logined Page</b><br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s3.png" width="700" height="450"/></p>
 
-<p>The Comments Page<br>
+<p><b>The Comments Page</b><br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s4.png" width="700" height="450"/></p>
 
-<p>The Friends Page<br>
+<p><b>The Friends Page</b><br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s5.png" width="700" height="450"/></p>
 
-<p>The Update Page<br>
+<p><b>The Update Page</b><br>
 <img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s6.png" width="700" height="450"/></p>
