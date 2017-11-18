@@ -1,29 +1,32 @@
-SQL file is present, make sure to import in phpmyadmin before running the project
+SocialCare using Laravel PHP Framework
+----------------------------------------
+----------------------------------------
 
-## Laravel PHP Framework
+<h3>Welcome to SocialCare <br></h3>
+The best Social Network to share ideas and<br>
+send your voices at correct Destination...<br>
+<br>
+Things that can be done using this Social Network and not Facebook,
+You can post anything which raises any concern about anything to you
+Your comment will be read by others and your friends
+Also it helps in raising voice about anything which bothers
+It does that by understanding your post smartly, and drafting your comment in the form of personal mail and 
+sending it to the authorised concerned party.
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+The Starting Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+The Register Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+The Logined Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
 
-## Official Documentation
+The Comments Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+The Friends Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The Update Page
+<img src="https://raw.github.com/utkarsh447/Sentiment-Analysis-Zomato/master/pic/s1.png" width="700" height="450"/>
